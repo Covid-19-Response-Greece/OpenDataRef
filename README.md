@@ -1,6 +1,8 @@
 # OpenDataRef
 *A web application to monitor COVID-19 cases in refugee camps of Greece*
 
+Website: https://camps.covid19response.gr
+
 ## About the OpenDataRef
 
 The [OpenDataRef](https://camps.covid19response.gr) platform, represents a tool that investigates and visualizes public open data related 
